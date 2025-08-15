@@ -1,5 +1,6 @@
 Target pembelajaran sem 3
-- Mampu menguasai bahsa Asing
+- Mampu menguasai bahasa Asing
   *Inggris
 - Mampu menguasai HTML,CSS (secara keseluruhan)
-- Mampu memahami Algoritma Pemrograman
+- Belajar Javascript
+- Belajar Python
