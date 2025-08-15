@@ -1,6 +1,0 @@
-Target pembelajaran sem 3
-- Mampu menguasai bahasa Asing
-  *Inggris
-- Mampu menguasai HTML,CSS (secara keseluruhan)
-- Belajar Javascript
-- Belajar Python
